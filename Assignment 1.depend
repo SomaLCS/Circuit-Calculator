@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590406655 source:c:\users\60175\desktop\total resistance calculator\assignment 1\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<vector>
+	<string>
+	<algorithm>
+
